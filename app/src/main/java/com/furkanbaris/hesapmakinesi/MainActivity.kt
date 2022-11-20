@@ -62,8 +62,9 @@ class MainActivity : AppCompatActivity() {
             resultView.text="Sonuç= $result"}
     }
     fun button55(view: View){
-        val date2="20/11/2022"
-        textView2.text="$date2"
+       // val date2="20/11/2022"
+      //  textView2.text="$date2"
+        textView2.text="20/11/2022"
     }
 
 
